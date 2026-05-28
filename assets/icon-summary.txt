@@ -1,0 +1,11 @@
+**The Four Questions**
+1. Verb: translate
+2. Object: a bilingual dictionary that only lets simple words escape
+3. Animal: a polite parrot that listens to engineers argues and then quietly explains what they actually meant without using any big scary words
+4. Most annoying manual task: sitting in every single meeting with a pad of Post-it notes, writing down what happened in plain English while a bunch of programmers argue about whether to call it a merge or a join
+
+**The Reality**
+This skill is basically a gatekeeper that stands at the exit of Technical Town and checks every sentence for scary words. It catches any term that would make a non-engineer squint, yanks it out, and forces a simple explanation into parentheses right behind it. It then stuffs the whole thing into one dense paragraph that fits neatly into Asana, like a t-shirt folded by someone who really cares about tetris high scores. The skill also banishes every acronym on sight and replaces them with their full meanings, because apparently "API" is too short to understand.
+
+**The Superpower and the Mockery**
+It wears a superhero cape made of zero-acronym policy and one-paragraph discipline, but really it is just extremely allergic to its own complexity. It will hunt down every last piece of jargon like a bloodhound and glue a parenthetical explanation to its face whether it wants one or not. It has no sense of context — if the user said "we deployed," it will happily explain that deployment means releasing software to the world and that "the world" is the internet. It produces a professionally neutral block of Markdown that stakeholders can read in thirty seconds or less, assuming they have not fallen asleep from joy.

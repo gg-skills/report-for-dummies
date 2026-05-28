@@ -1,0 +1,7 @@
+interface:
+  display_name: "GG → Report For Dummies → Plain-Language Summaries"
+  short_description: "Translate technical work into plain-English Asana-ready summaries."
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.png"
+  brand_color: "#6366f1"
+  default_prompt: "Use report-for-dummies/SKILL.md when the user needs a plain-language summary of technical work for Asana or stakeholder communication."
