@@ -6,7 +6,7 @@
  * Verifies a report generation operation against the 8-item Report Quality Checklist.
  * 
  * Usage:
- *   npx tsx skills/report-for-dummies/scripts/check-report-completeness.ts --phase <phase>
+ *   npx tsx .agents/skills/report-for-dummies/scripts/check-report-completeness.ts --phase <phase>
  */
 
 import { argv } from "process";
