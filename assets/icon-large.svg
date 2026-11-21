@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Plain-language translation gate">
+  <defs>
+    <linearGradient id="report-for-dummies-large-bg" x2="1" y2="1">
+      <stop stop-color="#42307F"/>
+      <stop offset="1" stop-color="#AD81EA"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="34" fill="url(#report-for-dummies-large-bg)"/>
+  <path d="M21 41 44 21h70l25 21v82l-25 16H44l-23-17Z" fill="#7955C7"/>
+  <path d="M31 43 49 28h60l22 14v83l-20 12H46l-15-12Z" fill="#372565"/>
+  <path d="m34 133 55-20 42 9-25 23H62Z" fill="#31296E"/>
+  <path d="m29 62 14-24 24-6 18 13 18 2 17 20 3 35-17 22-34 7-26-9-10-21 16-8 3-15Z" fill="#243A9E"/>
+  <path d="m29 62 14-24 24-6 14 15-14 16-15-5-12 10Z" fill="#6A7DE7"/>
+  <path d="m81 47 22 0 17 20-12 14-11-15-16-4Z" fill="#445CC8"/>
+  <path d="m67 63 14-16v15l16 4 11 15-14 20-25 9-18-11 17-16Z" fill="#11194B"/>
+  <path d="m51 99 18 11 25-9 14-20 15 21-17 22-34 7-26-9-10-21Z" fill="#263CA6"/>
+  <path d="m46 122 26 9 34-7 17-22-22 10-21 8-22-6Z" fill="#5168DD"/>
+  <path d="m43 67 7-3 6 4-7 22Zm15-3 10 0-1 10-7 12Zm11 45 4-12 8 1-2 10Zm15-6 5-14 6 4-3 6Z" fill="#F2E9FF"/>
+  <path d="m15 119 27-15 23 8-27 14Zm-2-15 22-11 14 5-22 12Z" fill="#C6B8FF"/>
+  <path d="m19 112 21-10m-18 20 19-10m6 7 10-5" stroke="#F7EDFF" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
